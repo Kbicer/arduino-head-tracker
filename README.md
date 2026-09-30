@@ -22,7 +22,13 @@ OpenTrack tracks head movement through a webcam. A Python script passes angle co
 
 ## What I Learned
 
-This project gave me practice assembling a moving mechanism, wiring electronics, and connecting software to hardware. It also helped me understand how testing and calibration affect the movement of a physical system.
+## What I Learned
+
+This project helped me understand how breadboards work and how to wire components together, including their power, ground, and signal connections. Putting the circuit together gave me hands-on experience beyond just following a wiring diagram.
+
+I also learned how different programs work together to control hardware. Connecting OpenTrack, the Python script, and the Arduino helped me understand how data moves from one program to another and eventually becomes physical movement.
+
+Testing the system taught me how to troubleshoot problems step by step. I had to check the wiring, software connection, and servo settings to figure out why something wasn't moving as expected. Adjusting the direction and calibration showed me how changes in the code affect the actual mechanism.
 
 ## Photos and Demo
 
