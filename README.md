@@ -28,6 +28,6 @@ I also learned how different programs work together to control hardware. Connect
 
 Testing the system taught me how to troubleshoot problems step by step. I had to check the wiring, software connection, and servo settings to figure out why something wasn't moving as expected. Adjusting the direction and calibration showed me how changes in the code affect the actual mechanism.
 
-## Photos and Demo
+## Photos 
 
-Photos of the build and a demonstration video will be added here.
+
