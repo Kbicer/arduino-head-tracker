@@ -32,5 +32,5 @@ Testing the system taught me how to troubleshoot problems step by step. I had to
 <img src="image1.jpg" width="500">
 <img src="image2.jpg" width="500">
 <img src="image3.jpg" width="500">
-<img src="image4.webp" width="500">
-<img src="image5.webp" width="500">
+<img src="image4.jpg" width="500">
+<img src="image5.jpg" width="500">
