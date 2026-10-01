@@ -27,7 +27,3 @@ This project helped me understand how breadboards work and how to wire component
 I also learned how different programs work together to control hardware. Connecting OpenTrack, the Python script, and the Arduino helped me understand how data moves from one program to another and eventually becomes physical movement.
 
 Testing the system taught me how to troubleshoot problems step by step. I had to check the wiring, software connection, and servo settings to figure out why something wasn't moving as expected. Adjusting the direction and calibration showed me how changes in the code affect the actual mechanism.
-
-## Photos 
-
-
