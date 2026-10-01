@@ -28,9 +28,24 @@ I also learned how different programs work together to control hardware. Connect
 
 Testing the system taught me how to troubleshoot problems step by step. I had to check the wiring, software connection, and servo settings to figure out why something wasn't moving as expected. Adjusting the direction and calibration showed me how changes in the code affect the actual mechanism.
 
-## Photos
+## Build
+
 <img src="image1.jpg" width="500">
+
+*Assembled pan/tilt mount with laser diode and servo motor*
+
 <img src="image2.jpg" width="500">
+
+*Full system setup — laser mount, breadboard, and LCD display*
+
 <img src="image3.jpg" width="500">
+
+*Pan/tilt mount connected to the Arduino, with the LCD showing live X/Y output*
+
 <img src="image4.jpg" width="500">
+
+*Arduino Uno wired to the servo, laser module, and LCD display on a breadboard*
+
 <img src="image5.jpg" width="500">
+
+*Laser diode and pan/tilt housing, powered on*
